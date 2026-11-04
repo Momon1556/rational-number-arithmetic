@@ -1,6 +1,6 @@
 {
   "name": "rational-number-arithmetic",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Performs exact arithmetic on fractions represented as numerator-denominator pairs with automatic reduction.",
   "type": "module",
   "main": "src/index.js",
